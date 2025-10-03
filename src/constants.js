@@ -34,7 +34,7 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 import csharpLogo from './assets/tech_logo/csharp.png';
 
 // Experience Section Logo's
-import _1stop from './assets/company_logo/1stop.png';
+import _1stop from './assets/company_logo/1Stop.png';
 import growthlinklogo from './assets/company_logo/GrowthLink.png';
 
 // Education Section Logo's
